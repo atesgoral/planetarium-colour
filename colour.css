@@ -1,0 +1,44 @@
+._swatch {
+	display: inline-block;
+	width: 1em;
+	height: 1em;
+	border-radius: 0.5em;
+	position: relative;
+	top: .1em;
+}
+
+.-white { background: #fff; }
+.-red { background: #f00; }
+.-green { background: #0f0; }
+.-blue { background: #00f; }
+
+.-cyan { background: #0ff; }
+.-magenta { background: #f0f; }
+.-yellow { background: #ff0; }
+
+.-red-560nm { background: #41d900; }
+.-green-530nm { background: #00e078; }
+.-blue-420nm { background: #3600bf; }
+
+.-bright-yellow { background: #ffc; }
+.-bright-blue { background: #cef; }
+
+.-cmyk-red { background: #ed1c24; }
+.-cmyk-yellow { background: #fff200; }
+.-cmyk-blue { background: #2e3192; }
+
+.-cmyk-orange { background: #f26522; }
+.-cmyk-green { background: #00a651; }
+.-cmyk-violet { background: #662d91; }
+
+.-cmyk-cyan { background: #00aeef; }
+.-cmyk-magenta { background: #ec008c; }
+.-cmyk-black { background: #000; }
+
+.-no-bullet {
+	list-style-type: none !important;
+}
+
+hr {
+	border-style: dotted;
+}
